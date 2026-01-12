@@ -8,3 +8,4 @@ num2 = Number(num2);
 
 const resultado = (num1 + num2);
 alert(`O resultado da soma entre ${num1} e ${num2} é: ${resultado}`);
+//
