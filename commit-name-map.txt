@@ -1,0 +1,55 @@
+	
+userinput	user input
+variableswapping	variable swapping
+stringmethods	string methods
+numbermethods	number methods
+mathobject	math object
+arrays	arrays
+primitivesvsreferences	primitives vs references
+formprocessing	form processing
+logicaloperators	logical operators
+imccalculator	imc calculator
+conditionals	conditionals
+conditionals2	conditionals2
+conditionalstatements	conditional statements
+ternaryoperator	ternary operator
+	
+objetodate	objeto date
+switchstatement	switch statement
+dateformatting	date formatting
+variablescope	variable scope
+objectdestructuring	object destructuring
+forloop	for loop
+dommanipulation	dom manipulation
+forinloop	for in loop
+forinofeach	for in of each
+nodelist	node list
+while	while
+console	console
+break	break
+logic	logic
+trycatchthrow	try catch throw
+helloworld	hello world
+variableassignment	variable assignment
+stringconcatenation	string concatenation
+templateliterals	template literals
+variablereassignment	variable reassignment
+aula10	aula10
+aula4	aula4
+aula46_setintervalsettimeout	aula46 set interval set timeout
+aula47	aula47
+commitnamemap	commit name map
+eligibilitychecker	eligibility checker
+ex01	ex01
+exfinacial_dashboard	ex finacial dashboard
+funções	funções
+html	html
+logic	logic
+modelo	modelo
+objetosbasico	objetos(basico)
+operators	operators
+profile	profile
+rewritemsg	rewrite msg
+rewritemsg	rewrite msg
+rewritemsg	rewrite msg
+scripts	scripts
